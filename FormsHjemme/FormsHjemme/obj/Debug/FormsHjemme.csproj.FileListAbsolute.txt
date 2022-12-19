@@ -1,0 +1,11 @@
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\bin\Debug\FormsHjemme.exe.config
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\bin\Debug\FormsHjemme.exe
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\bin\Debug\FormsHjemme.pdb
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.csproj.AssemblyReference.cache
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.csproj.SuggestedBindingRedirects.cache
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form1.resources
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Properties.Resources.resources
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.csproj.GenerateResource.cache
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.csproj.CoreCompileInputs.cache
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.exe
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.pdb
