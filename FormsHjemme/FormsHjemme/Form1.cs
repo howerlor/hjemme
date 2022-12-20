@@ -21,7 +21,7 @@ namespace FormsHjemme
         {
             Form3 users = new Form3();
             users.Show();
-            this.Hide();
+            this.Hide(); 
         }
 
         private void label1_Click(object sender, EventArgs e)
