@@ -35,5 +35,12 @@ namespace FormsHjemme
             users.Show(); 
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form7 reg = new Form7();
+            reg.Show();
+            this.Hide();
+        }
     }
 }
