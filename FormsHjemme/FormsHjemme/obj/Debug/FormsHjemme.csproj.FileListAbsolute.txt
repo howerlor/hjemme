@@ -43,3 +43,11 @@ C:\Users\admin\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme
 C:\Users\admin\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form7.resources
 C:\Users\admin\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form8.resources
 C:\Users\admin\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form9.resources
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form2.resources
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form3.resources
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form4.resources
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form5.resources
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form6.resources
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form7.resources
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form8.resources
+C:\Users\hower\source\repos\hjemme\FormsHjemme\FormsHjemme\obj\Debug\FormsHjemme.Form9.resources
