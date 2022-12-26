@@ -10,43 +10,32 @@ using System.Windows.Forms;
 
 namespace FormsHjemme
 {
-    public partial class Form5 : Form
+    public partial class Form10 : Form
     {
-        public Form5()
+        public Form10()
         {
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            Form4 view = new Form4();
+            Form12 view = new Form12();
             view.Show();
             this.Hide();
         }
 
-        private void label4_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-
+            Form12 view = new Form12();
+            view.Show();
+            this.Hide();
         }
 
-        private void label5_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label9_Click(object sender, EventArgs e)
-        {
-
+            Form11 view = new Form11();
+            view.Show();
+            this.Hide();
         }
     }
 }

@@ -16,5 +16,12 @@ namespace FormsHjemme
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 save = new Form1();
+            save.Show();
+            this.Hide();
+        }
     }
 }

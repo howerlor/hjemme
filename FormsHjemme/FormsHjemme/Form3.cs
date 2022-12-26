@@ -51,7 +51,7 @@ namespace FormsHjemme
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            Form4 enter = new Form4();
+            Form10 enter = new Form10();
             enter.Show();
             this.Hide();
         }

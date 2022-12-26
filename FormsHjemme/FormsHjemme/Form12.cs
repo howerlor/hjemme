@@ -10,22 +10,17 @@ using System.Windows.Forms;
 
 namespace FormsHjemme
 {
-    public partial class Form8 : Form
+    public partial class Form12 : Form
     {
-        public Form8()
+        public Form12()
         {
             InitializeComponent();
         }
 
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 save = new Form1();
-            save.Show();
+            Form10 view = new Form10();
+            view.Show();
             this.Hide();
         }
     }
