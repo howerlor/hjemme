@@ -29,8 +29,8 @@ namespace FormsHjemme
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form10 view = new Form10();
-            view.Show();
+            Form10 save = new Form10();
+            save.Show();
             this.Hide();
         }
     }

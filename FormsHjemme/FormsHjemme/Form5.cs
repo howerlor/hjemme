@@ -24,8 +24,8 @@ namespace FormsHjemme
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form4 view = new Form4();
-            view.Show();
+            Form4 back = new Form4();
+            back.Show();
             this.Hide();
         }
 
